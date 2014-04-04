@@ -3,9 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/var/www/testdrive/protected/config/test.php</file>
             <file>file:/var/www/testdrive/protected/views/repair/admin.php</file>
+            <file>file:/var/www/testdrive/protected/config/main.php</file>
+            <file>file:/var/www/testdrive/protected/views/site/pages/about.php</file>
             <file>file:/var/www/testdrive/index.php</file>
             <file>file:/var/www/testdrive/protected/views/repair/index.php</file>
+            <file>file:/var/www/testdrive/protected/config/console.php</file>
+            <file>file:/var/www/testdrive/protected/views/site/contact.php</file>
+            <file>file:/var/www/testdrive/protected/views/site/error.php</file>
+            <file>file:/var/www/testdrive/protected/views/site/login.php</file>
+            <file>file:/var/www/testdrive/protected/views/site/index.php</file>
         </group>
     </open-files>
 </project-private>
